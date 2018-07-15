@@ -1,6 +1,6 @@
 // Write your solution in this file!
 
-driver = {name: 'Sam'};
+driver = {};
 
 function updateDriverWithKeyAndValue(driver, key, value) {
   new_driver = driver;
